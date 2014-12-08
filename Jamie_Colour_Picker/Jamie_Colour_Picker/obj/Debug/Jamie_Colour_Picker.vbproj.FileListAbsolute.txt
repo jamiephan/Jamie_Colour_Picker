@@ -1,0 +1,27 @@
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.exe
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.pdb
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.xml
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.Form1.resources
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.Resources.resources
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.vbproj.GenerateResource.Cache
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.exe
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.xml
+C:\Users\14020868\AppData\Local\Temporary Projects\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.pdb
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.exe
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.xml
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.pdb
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.exe
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.pdb
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.xml
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.Form1.resources
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.Resources.resources
+\\vm2k8home-03\14020868$\Documents\Visual Studio 2012\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.vbproj.GenerateResource.Cache
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.exe
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.xml
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.pdb
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.exe
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.pdb
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\bin\Debug\Jamie_Colour_Picker.xml
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.Form1.resources
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.Resources.resources
+D:\Users\Jamie\Documents\Visual Studio 2013\Projects\Jamie_Colour_Picker\Jamie_Colour_Picker\obj\Debug\Jamie_Colour_Picker.vbproj.GenerateResource.Cache
