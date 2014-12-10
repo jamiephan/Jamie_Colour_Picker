@@ -1,7 +1,7 @@
 ﻿'==========================================================================================================
 'Dear Source Code Reader :
 'This project is made by jamiephan (http://www.jamiephan.net) / lovemelody (http://tinyurl.com/cx9999v)
-'This project is under CCA 4.0 licence. (non-commercially usage.)
+'This project is under Attribution-NonCommercial 4.0 International. (non-commercially usage + Attribution )
 'Licence link --> http://creativecommons.org/licenses/by-nc/4.0/
 '==========================================================================================================
 Public Class Form1
